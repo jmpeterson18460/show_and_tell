@@ -1,0 +1,32 @@
+.red{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  margin: 1px 10px;
+}
+
+.blue{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  margin: 1px 10px;
+}
+
+.green{
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 1px 10px;
+}
+
+.yellow{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  margin: 1px 10px;
+}
+
+#content{
+  display: flex;
+  flex-direction: row;
+}
